@@ -2,7 +2,7 @@
     // Fonction de connexion à la base de données qui retourne le handle
     function openDatabaseConnection() {
         $host = 'localhost';
-        $db = 'resaHotelCaliformia';
+        $db = 'resaHotelCalifornia';
         $user = 'root';
         $pass = '';
         

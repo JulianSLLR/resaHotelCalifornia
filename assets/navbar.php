@@ -7,7 +7,7 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="/resaHotelCalifornia/index.php"><i class="fas fa-home"></i>Accueil</a>
+                    <a class="nav-link" aria-current="page" href="/resaHotelCalifornia/index.php"><i class="fas fa-home"></i>Accueil</a> 
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/resaHotelCalifornia/chambres/listChambres.php"><i class="fas fa-bed"></i>Chambres</a>
@@ -28,3 +28,10 @@
         </div>
     </div>
 </nav>
+
+<style>
+    .nav-item > a  > i {
+        padding-right: 3px;
+    }
+</style>
+
